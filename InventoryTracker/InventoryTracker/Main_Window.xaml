@@ -15,7 +15,7 @@
 
     
 
-    <Border BorderBrush="Black" BorderThickness="10,10,10,10">
+    <Border BorderBrush="Black" BorderThickness="10,10,10,10" Background="SteelBlue">
 
         <StackPanel x:Name="window_panel" VerticalAlignment="Top" DataContext="{Binding}">
 
